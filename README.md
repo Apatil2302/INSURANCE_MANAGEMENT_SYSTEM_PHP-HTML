@@ -15,8 +15,10 @@ username: userAdmin
 Password: admin@123
 
 Credential for user panel :
+
 Username: user
 Password: user@123
+
 username: jd@gmail.com
 Password: user@123
 
