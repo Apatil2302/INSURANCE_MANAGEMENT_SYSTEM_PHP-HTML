@@ -1,6 +1,7 @@
 # INSURANCE_MANAGEMENT_SYSTEM_PHP-HTML
 A web-based Insurance Management System developed using PHP, HTML, CSS, and MySQL. The project provides a platform for managing insurance policies, customer information, and insurance-related records through a simple and user-friendly interface.
 How to run Insurance Management System Project PHP
+
 1.Download the zip file
 2.Extract the file and copy ims folder
 3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/HTML)
