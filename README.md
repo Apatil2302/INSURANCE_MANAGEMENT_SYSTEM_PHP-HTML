@@ -9,12 +9,15 @@ How to run Insurance Management System Project PHP
 6.Import imsdb.sql file(given inside the zip package in SQL file folder)
 7.Run the script http://localhost/ims (frontend)
 8. For admin panel http://localhost/ims/admin (admin panel)
+
 Credential for admin panel :
 username: userAdmin
 Password: admin@123
+
 Credential for user panel :
 Username: user
 Password: user@123
 username: jd@gmail.com
 Password: user@123
+
 or Register a new user.
